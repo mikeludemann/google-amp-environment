@@ -1,0 +1,25 @@
+{
+  "name": "google-amp-environment",
+  "version": "1.0.0",
+  "description": "Google AMP Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/google-amp-environment.git"
+  },
+  "keywords": [
+    "Google",
+    "AMP",
+    "Web-Framework",
+    "Customisation"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/google-amp-environment/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/google-amp-environment#readme"
+}
